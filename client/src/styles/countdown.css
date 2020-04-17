@@ -1,0 +1,51 @@
+body {
+  background: rgb(55, 49, 49);
+  background: radial-gradient(
+    circle,
+    rgb(56, 38, 122) 20%,
+    rgba(21, 27, 64, 1) 80%
+  );
+}
+.Countdown-header {
+  font-family: "Futura";
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+.Countdown {
+  min-height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
+}
+img.resize {
+  max-height: 100vh;
+  height: auto;
+}
+button:focus {
+  outline: none;
+}
+button {
+  font-family: "Futura";
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: rgb(85, 169, 135);
+  background-color: rgb(50, 51, 56);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  align-items: center;
+  justify-content: center;
+  margin-left: 620px;
+  margin-right: 600px;
+  margin-bottom: 200px;
+  margin-top: 100px;
+}

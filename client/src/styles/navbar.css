@@ -1,0 +1,10 @@
+a.navbar-brand {
+  font-family: "Futura";
+  font-weight: medium;
+  margin-left: 10px;
+}
+
+.nav-link {
+  font-family: "Futura";
+  font-weight: bold;
+}

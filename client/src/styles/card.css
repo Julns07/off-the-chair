@@ -1,0 +1,15 @@
+.card-deck {
+  flex: 1 0;
+  margin-left: 15px;
+  margin-top: 20px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+}
+
+.card {
+  font-family: "Futura";
+  color: black;
+}
+.card-img-right {
+  height: 300px;
+}

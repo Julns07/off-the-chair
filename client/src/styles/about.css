@@ -1,0 +1,45 @@
+h1 {
+  margin-bottom: 40px;
+  font-family: "Futura";
+  color: rgb(85, 165, 122);
+}
+
+h3 {
+  font-family: "Futura";
+  color: rgb(85, 165, 122);
+}
+
+.jumbotron {
+  background: url("../assets/officeMeditation\ Cropped.jpg");
+  height: 700px;
+}
+.jumbotron2 {
+  background: url("../assets/man-workingout.jpg");
+}
+.jumbotron2 button {
+  font-family: "Futura";
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: rgb(85, 169, 135);
+  background-color: rgb(50, 51, 56);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  width: 250px;
+}
+.jumbotron2 button:focus {
+  outline: none;
+}
+.jumbotron2 p {
+  font-family: "Futura";
+  font-weight: bold;
+  font-size: 24px;
+  color: rgb(85, 169, 135);
+  margin-left: 50px;
+  width: 515px;
+}
